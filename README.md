@@ -7,7 +7,7 @@ Sweet Cake Studio
 
 ## Project Overview
 
-Pull thissweet cake studios website is a local brand from pretoria which was founded in 2026 that is meant to support the bakerys expansion for clients in need of custom cakes and desserts.it wants to spread awareness for the business  by launching a new website which is easy to use as you browse for the cake that you want . Sweet cake studio to be the best online service for cakes in a quicker way than physically going to the stores to buy the cake.
+Sweet cake studios website is a local brand from pretoria which was founded in 2026 that is meant to support the bakerys expansion for clients in need of custom cakes and desserts.it wants to spread awareness for the business  by launching a new website which is easy to use as you browse for the cake that you want . Sweet cake studio to be the best online service for cakes in a quicker way than physically going to the stores to buy the cake.
 
 ## Website Goals and Objectives
 The main goals for sweet cake studios website is to create delicious, designed cakes to make every of your events memorable while improving the customer base and brand awareness in johannesburg and surronding areas . That offers you a smooth and reliable services with high-end cakes that are made with love, passion and drive .
