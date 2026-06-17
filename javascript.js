@@ -33,3 +33,18 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   }
 })
+/* Enquiry Form Styling - Part 3 */
+.enquiry-page { 
+  max-width: 600px; 
+  margin: 40px auto; 
+  padding: 20px; 
+}
+.enquiry-page h1 { 
+  color: #d63384; 
+  margin-bottom: 10px; 
+}
+.enquiry-page p { 
+  margin-bottom: 25px; 
+  color: #555; 
+}
+.form-group { 
